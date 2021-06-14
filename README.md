@@ -14,6 +14,9 @@ Creating animated plots in R using ggplot, gganimate and the gapminder dataset. 
 ![plot_horizontal_gdpPercap_lifeExp](https://user-images.githubusercontent.com/52819652/121817773-032cca00-cca1-11eb-82d7-6783b3899899.gif)  
 ### Gdp per capita vs Life Expectancy (Horizontal)  
 ![plot_vertical_gdpPercap_lifeExp](https://user-images.githubusercontent.com/52819652/121817788-1b9ce480-cca1-11eb-8dca-1e035b2cc8ae.gif)  
+### Gdp per capita vs Life Expectancy (Combined Continents)    
+![plot_continents_together_gdpPercap_lifeExp](https://user-images.githubusercontent.com/52819652/121915298-b86a8b00-cd50-11eb-9fde-9271afc2f226.gif)    
+
 
 Refercence: https://towardsdatascience.com/how-to-create-animated-plots-in-r-adf53a775961
 
